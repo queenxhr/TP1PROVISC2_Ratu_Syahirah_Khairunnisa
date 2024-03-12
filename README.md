@@ -1,10 +1,17 @@
 # TP1PROVISC2_Ratu_Syahirah_Khairunnisa
 
+Nama     : Ratu Syahirah Khairunnisa
+---
+NIM      : 2200978
+---
+Kelas    : C2
+---
+
 # Implementasi OOP dan Asynchronous dalam Dart
 
 Di sini saya mengimplementasikan Object-Oriented Programming (OOP) dan asynchronous dengan membuat sebuah kelas bernama `Investasi` yang digunakan untuk menghitung nilai masa depan dari sebuah investasi.
 
-## Penjelasan Kode
+## Penjelasan Program
 
 ### 1. Kelas `Investasi`
 
