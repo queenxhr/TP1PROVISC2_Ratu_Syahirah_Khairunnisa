@@ -41,3 +41,7 @@ Pada implementasi ini, saya menggunakan fitur asynchronous pada Dart untuk melak
 - Import library `dart:async` agar dapat menggunakan fitur asynchronous.
 - Import library `dart:math` agar dapat mengunakan `pow()`.
 - Import library `package:intl/intl.dart` agar dapat menggunakan format tanggal dan waktu.
+
+## Screenshot Hasil Program
+<img width="469" alt="Hasil Program" src="https://github.com/queenxhr/TP1PROVISC2_Ratu_Syahirah_Khairunnisa/assets/135084798/6817ae39-bb26-4366-89c8-9689ecbe3990">
+
